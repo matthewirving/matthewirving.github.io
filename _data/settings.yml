@@ -1,0 +1,166 @@
+#-------------------------------
+# General Site Settings
+
+title: MI Solutions
+logo: 
+author: Matthew Irving
+description: my website
+email: matthewirving135@gmail.com
+phone: Available upon request
+address: Available upon request
+copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+
+menu:
+- {name: About, link: '/about'}
+- {name: Blog, link: '/blog'}
+- {name: Portfolio, link: '/portfolio'}
+- {name: Contact, link: '/contact'}
+
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+google-analytics: UA-181276963-1
+
+
+#-------------------------------
+# Comment Section (Disqus)
+
+disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Hero Section
+
+hero:
+  hero-title: Hi! I’m <br> Matthew Irving <br> Sophmore at Rutgers University
+
+social:
+- {icon: "ti-facebook", link: "#"}
+- {icon: "ti-instagram", link: "#"}
+- {icon: "ti-dribbble", link: "#"}
+- {icon: "ti-twitter", link: "#"}
+
+
+#-------------------------------
+# About (Section and Page)
+
+# About Section
+blurb:
+  Welcome! Feel free to browse my website. If you have any questions, comments, concerns, etc. please don't hesitate to leave your contact info below and I'll get back to you ASAP.
+
+blurb-btn-link: '/about'
+blurb-btn-name: know more
+
+
+# About Page
+
+# Work Process Section
+work-process:
+
+
+
+# My Team Section
+team:
+
+
+
+#-------------------------------
+# Skills Section
+
+skills-title: Skills
+skills:
+- {name: Web Development, color: '#fdb157', value: '90%'}
+- {name: Hardware Design, color: '#9473e6', value: '60%'}
+- {name: Customer Service, color: '#bdecf6', value: '80%'}
+- {name: Photoshop, color: '#ffbcaa', value: '70%'}
+
+
+#-------------------------------
+# Exprerience Section
+
+experience-title: Experience
+experience:
+- {name: Onsite Manager, icon: 'icon-1.png', date: 'Oct 2016 - Aug 2020', organization: 'PRINCETON CANOE & KAYAK'}
+- {name: Mail Room/ IT Assistant, icon: 'icon-3.png', date: 'Jul 2018 - Aug 2018', organization: 'GLOBAL BRANDS GROUP'}
+- {name: Help Desk Consultant, icon: 'icon-2.png', date: 'Oct 2020 - Present', organization: 'RUTGERS OIT'}
+
+
+
+#-------------------------------
+# Education Section
+
+education-title: Education
+education:
+- {name: Bachelors in Electrical and Computer Engineering, date: '2023', organization: 'Rutgers University'}
+
+
+#-------------------------------
+# Services Section
+
+services-title: Services
+services:
+#- {
+#    name: UI Design,
+#    icon: ti-palette,
+#    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+#    active: # Add true to select section
+#  }
+
+
+
+
+#-------------------------------
+# Portfolio (Section and Page)
+
+# Portfolio Home Section
+portfolio-home-items:
+
+
+
+# Portfolio Page
+portfolio-label:
+- {
+    title : "HARDWARE",
+    type : "hardware"
+  }
+- {
+    title : "SOFTWARE",
+    type : "software"
+  }
+- {
+    title : "MICRO-CONTROLLER",
+    type : "micro-controller"
+  }
+
+portfolio-items:
+  - image : "assets/images/portfolio/Bathroom_Buddy/item-1.jpg"
+    url: "Bathroom_Buddy.html"
+    portfolio-type:
+     - type: "hardware"
+     - type: "software"
+     - type: "micro-controller"
+      
+
+
+#-------------------------------
+# Testimonials Section
+
+testimonial-items:
+  
+
+#-------------------------------
+# Client Slider Section
+
+#client-slider-items:
+
+#-------------------------------
+# Contact Section
+
+contact-title: Contact Info
+contact-email: matthewirving135@gmail.com
