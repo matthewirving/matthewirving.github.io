@@ -73,12 +73,12 @@ team:
 #-------------------------------
 # Skills Section
 
-skills-title: Skills
-skills:
-- {name: Web Development, color: '#fdb157', value: '90%'}
-- {name: Hardware Design, color: '#9473e6', value: '60%'}
-- {name: Customer Service, color: '#bdecf6', value: '80%'}
-- {name: Photoshop, color: '#ffbcaa', value: '70%'}
+#skills-title: Skills
+#skills:
+#- {name: Web Development, color: '#fdb157', value: '90%'}
+#- {name: Micro Controllers, color: '#9473e6', value: '60%'}
+#- {name: Customer Service, color: '#bdecf6', value: '80%'}
+#- {name: Photoshop, color: '#ffbcaa', value: '70%'}
 
 
 #-------------------------------
